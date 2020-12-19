@@ -1,4 +1,10 @@
 ### Hi there 👋
+<a href="https://github.com/aerosoul94/aerosoul94">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aerosoul94&show_icons=true&line_height=20&count_private=true&theme=dark&hide_title=false" />
+</a>
+<a href="https://github.com/aerosoul94/aerosoul94">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aerosoul94&theme=dark&layout=compact" />
+</a>
 
 <!--
 **aerosoul94/aerosoul94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
