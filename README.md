@@ -1,5 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on data recovery tools for the PS3 and PS4: [PS-HDD-Tools](https://github.com/aerosoul94/PS-HDD-Tools)
+- 🌱 I’m currently learning Qt and WebGL (separate projects)
 
 <a href="https://github.com/aerosoul94/aerosoul94">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=aerosoul94&show_icons=true&line_height=20&count_private=true&theme=dark&hide_title=false" />
