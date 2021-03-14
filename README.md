@@ -4,7 +4,7 @@
 
 ### Cool gist's of mine
 * Naughty Dog engine script disassembler: [dc-disassemble.py](https://gist.github.com/aerosoul94/3a2da3cdbef11f4031f19b2a6feaeb5c)
-* PS3 analysis helper for Ghidra: [ps3.py](https://gist.github.com/aerosoul94/600c52638d9b5174342e016aee1e14db)
+* PS3 analysis script for Ghidra: [ps3.py](https://gist.github.com/aerosoul94/600c52638d9b5174342e016aee1e14db)
 * PS3 hdd file carver: [ps3rec.py](https://gist.github.com/aerosoul94/bc7f6ebc8e35dfe7d124f84dfe3347e7)
 * PS3 FIOS cache file unpacker: [fios.py](https://gist.github.com/aerosoul94/a9af1d6c0dbaeaa52f1808c44082c87f)
 * PSVita relocation visualization: [VitaReloc.md](https://gist.github.com/aerosoul94/3bbfeca6c2d3d4f63df34c1367aa2b85)
