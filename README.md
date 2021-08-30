@@ -2,6 +2,10 @@
 - 🔭 I’m currently working on data recovery tools for the PS3 and PS4: [PS-HDD-Tools](https://github.com/aerosoul94/PS-HDD-Tools)
 - 🌱 I’m currently learning Qt and WebGL (separate projects)
 
+### Project Releases
+[![GitHub all releases](https://img.shields.io/github/downloads/aerosoul94/FATXTools/total?style=flat-square)](https://github.com/aerosoul94/FATXTools/releases)
+[**FATXTools**](https://github.com/aerosoul94/FATXTools) - Data recovery tools for the Xbox and Xbox 360.
+
 ### Cool gist's of mine
 * Naughty Dog engine script disassembler: [dc-disassemble.py](https://gist.github.com/aerosoul94/3a2da3cdbef11f4031f19b2a6feaeb5c)
 * PS3 analysis script for Ghidra: [ps3.py](https://gist.github.com/aerosoul94/600c52638d9b5174342e016aee1e14db)
