@@ -5,6 +5,7 @@
 ### Project Releases
  - [![GitHub all releases](https://img.shields.io/github/downloads/aerosoul94/FATXTools/total?style=flat-square)](https://github.com/aerosoul94/FATXTools/releases) [**FATXTools**](https://github.com/aerosoul94/FATXTools) - Data recovery tools for the Xbox and Xbox 360.
  - [![GitHub all releases](https://img.shields.io/github/downloads/aerosoul94/PS-HDD-Tools/total?style=flat-square)](https://github.com/aerosoul94/PS-HDD-Tools/releases) [**PS-HDD-Tools**](https://github.com/aerosoul94/PS-HDD-Tools) - Data recovery tools for Playstation consoles.
+ - [![GitHub all releases](https://img.shields.io/github/downloads/aerosoul94/ida_gel/total?style=flat-square)](https://github.com/aerosoul94/ida_gel/releases) [**ida_gel**](https://github.com/aerosoul94/ida_gel) - Game ELF Loaders for PS3, PSVita, and Wii U
 
 ### Cool gist's of mine
 * Naughty Dog engine script disassembler: [dc-disassemble.py](https://gist.github.com/aerosoul94/3a2da3cdbef11f4031f19b2a6feaeb5c)
